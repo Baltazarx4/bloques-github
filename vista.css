@@ -1,0 +1,25 @@
+h1{
+    text-align:center;
+    color:rgb(108, 108, 108);
+}
+
+.block1{
+    background-color: rgb(0, 187, 244);
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.block2{
+    background-color: rgb(244, 152, 196);
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+.block3{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
